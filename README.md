@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **python projects**
 
-- 🌱 I’m currently learning **100 days of code, React Native, Python, Java, Machine learning**
+- 🌱 I’m currently learning and working on projects as I love how AI is changing the world. "If AI and fullstack were two sets , id be A union B " - Me 😊
 
-- 💬 Ask me about **MEARN, React , Machine learning**
+- 💬 Ask me about **MERN, React , Machine learning**
 
 - 📫 How to reach me **dulneth.bernard@gmail.com**
 
